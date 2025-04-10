@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/osrs-event-randomizer-create-react-app/static/css/main.edafd36b.css",
+    "main.js": "/osrs-event-randomizer-create-react-app/static/js/main.cd03ed01.js",
+    "index.html": "/osrs-event-randomizer-create-react-app/index.html",
+    "main.edafd36b.css.map": "/osrs-event-randomizer-create-react-app/static/css/main.edafd36b.css.map",
+    "main.cd03ed01.js.map": "/osrs-event-randomizer-create-react-app/static/js/main.cd03ed01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edafd36b.css",
+    "static/js/main.cd03ed01.js"
+  ]
+}
